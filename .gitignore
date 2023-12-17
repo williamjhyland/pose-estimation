@@ -2,4 +2,5 @@ bin/
 include/
 lib/
 share/
+pyvenv.cfg
 secrets.txt
